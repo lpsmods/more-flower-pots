@@ -6,6 +6,12 @@
 
 This datapack adds different colored flower pots!
 
+## Contributing
+
+This repository has multiple branches for each platform this Minecraft mod supports.
+
+- [`datapack`](https://github.com/lpsmods/more-flower-pots/tree/datapack)
+
 ## Mod Data
 
 | Key       | Value              |
